@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Meeyun Kim"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Meeyun Kim"
 description              : &description "personal description"
 url                      : https://tr0up2r.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/tr0up2r"
+  github           : "tr0up2r"
   google_plus      :
   keybase          :
   instagram        :

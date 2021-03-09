@@ -20,18 +20,23 @@ Work experience
 * Spring 2021: **Teaching Assistant** of *Introduction to Programming with Python* at Incheon National University.  
 (Supervisor: Prof. Daejin Choi)
 
+Certificate
+======
+* **Engineer Information Processing**, Human Resources Development Service of Korea (Nov. 12, 2020)
+
 Skills
 ======
-* **Programming languages**: C, C++. Python, Java, Kotlin
+* **Programming languages**: C, C++, Python, Java, Kotlin
 * **Tools**: SQL
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<!-- 
+ 
 Talks
 ======
   <ul>{% for post in site.talks %}
