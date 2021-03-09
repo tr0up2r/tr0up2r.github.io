@@ -20,6 +20,10 @@ Work experience
 * Spring 2021: **Teaching Assistant** of *Introduction to Programming with Python* at Incheon National University.  
 (Supervisor: Prof. Daejin Choi)
 
+Achievement
+======
+* Awarded a **silver prize** at a graduation project presentation contest of Computer Science & Engineering Department. (Jun, 23, 2020)
+
 Certificate
 ======
 * **Engineer Information Processing**, Human Resources Development Service of Korea (Nov. 12, 2020)
