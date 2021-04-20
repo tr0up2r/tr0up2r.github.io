@@ -27,6 +27,7 @@ Achievement
 Certificate
 ======
 * **Engineer Information Processing**, Human Resources Development Service of Korea (Nov. 12, 2020)
+* **SQLD(Structured Query Language Developer)**, Korea Data Agency (Apr. 16, 2021)
 
 Skills
 ======
