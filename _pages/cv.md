@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science & Engineering, Incheon National University, 2021.08 (expected)
+* B.S. in Computer Science & Engineering, Incheon National University, 2021.08
 
 Work experience
 ======
