@@ -17,7 +17,7 @@ Work experience
 ======
 * Fall 2019, 2020: **Teaching Assistant** of *C++ Language* at Incheon National University.  
 (Supervisor: Prof. Sunjeong Lee)
-* Spring 2021: **Teaching Assistant** of *Introduction to Programming with Python* at Incheon National University.  
+* Spring 2021, 2022: **Teaching Assistant** of *Introduction to Programming with Python* at Incheon National University.  
 (Supervisor: Prof. Daejin Choi)
 
 Achievement
